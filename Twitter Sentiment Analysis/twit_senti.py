@@ -2,11 +2,11 @@ from textblob import TextBlob
 import tweepy
 import csv
 
-consumer_key = 'M6wMSsltNv1aUuKpe7ou2oBvs'
-consumer_secret = 'AmVNUgspDUZLDlidooS207HW9AZxk1Coy5hmV1UIhfjGXyaTHv'
+consumer_key = '#your key'
+consumer_secret = '#your secret'
 
-access_token = 	'327473973-OqIeRpAawJvQEfXYqWAW8GvrBjc7IiSo6i2lVlLe'
-access_token_secret = 'WbMpEsn19gV1K7qPlz4wiGv1sEcfzR5OABDHZDLZ59HBY'
+access_token = 	'#your token'
+access_token_secret = '#your secret token'
 
 
 #To Authenticate with twitter
