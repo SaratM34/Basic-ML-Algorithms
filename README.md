@@ -1,1 +1,1 @@
-# Basic-ML-Algortihms
+# Basic-ML-Algorithms
